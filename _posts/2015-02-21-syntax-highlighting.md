@@ -3,6 +3,11 @@ layout: post
 title:  "Syntax highlighting in jykell"
 date:   2015-02-21
 categories: jekyll
+tags:
+    - jekyll
+    - code
+    - syntax
+
 ---
 
 {% highlight ruby %}
