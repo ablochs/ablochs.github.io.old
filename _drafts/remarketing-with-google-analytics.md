@@ -23,3 +23,7 @@ Go to your Adwords account and click `Campaigns > Shared Library > Audiences` an
 
 ## Types of retargeting
 Site-wide (general) vs Dynamic
+
+## Image ads
+<a href="https://support.google.com/adwords/answer/1722134?hl=en" target="_blank">Tips for creating effective display ads</a>
+<a href="https://support.google.com/adsense/answer/6002621?hl=en#top" target="_blank">Google support - most popular ad sizes</a>
