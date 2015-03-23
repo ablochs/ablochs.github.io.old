@@ -6,7 +6,7 @@ categories: bitcoin
 tags: [bitcoin, notes]
 ---
 
-## 
+## Stuff to know
 - Triple entry book keeping
 - byzantine general problem
 - Bitcoin scripting languange
@@ -32,12 +32,12 @@ tags: [bitcoin, notes]
 - darkcoin
 
 ## Links Misc.
-[ethereum wiki](https://github.com/ethereum/wiki/wiki)
-[bitaddress.org](https://www.bitaddress.org)
-[blockexplorer.com](https://blockexplorer.com/)
-[smart contracts](http://szabo.best.vwh.net/formalize.html)
-[Sidechain paper](http://www.blockstream.com/sidechains.pdf)
-[Bitcoin research](https://en.bitcoin.it/wiki/Research)
+- [ethereum wiki](https://github.com/ethereum/wiki/wiki)
+- [bitaddress.org](https://www.bitaddress.org)
+- [blockexplorer.com](https://blockexplorer.com/)
+- [smart contracts](http://szabo.best.vwh.net/formalize.html)
+- [Sidechain paper](http://www.blockstream.com/sidechains.pdf)
+- [Bitcoin research](https://en.bitcoin.it/wiki/Research)
 
 ## Blogs
 [righto.com](http://www.righto.com/)
@@ -46,8 +46,8 @@ tags: [bitcoin, notes]
 
 
 ## Companies
-https://www.coinbase.com/
-https://satoshidice.com
+- https://www.coinbase.com/
+- https://satoshidice.com
 - pitpay
 - https://bitcoinarmory.com/
 - kraken 
