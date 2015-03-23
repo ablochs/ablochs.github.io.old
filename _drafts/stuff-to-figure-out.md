@@ -11,3 +11,9 @@ tags: [ideas, learning, knowledge]
 - How to program smart contracts
 - C++ on mac
 - How to tor work?
+- mesh networking
+- fog networks
+- built torrent client
+- track wifi devices
+- python cryptography
+- http://money.howstuffworks.com/personal-finance/online-banking/online-money-transfer.htm
