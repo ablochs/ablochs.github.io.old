@@ -80,6 +80,7 @@ http://www.cbc.ca/player/News/Business/ID/2375415659/
 - 
 
 
+
 ## Links
 [blockchain](https://blockchain.info/)
 [bitcoinwatch](http://www.bitcoinwatch.com/)

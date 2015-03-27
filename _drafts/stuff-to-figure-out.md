@@ -17,3 +17,8 @@ tags: [ideas, learning, knowledge]
 - track wifi devices
 - python cryptography
 - http://money.howstuffworks.com/personal-finance/online-banking/online-money-transfer.htm
+- streaming blockchain analytics
+- spark
+- elastic search
+- how does a credit card network work
+- analyze george soros portfolio

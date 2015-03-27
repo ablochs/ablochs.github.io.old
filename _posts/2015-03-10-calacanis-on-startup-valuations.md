@@ -2,8 +2,8 @@
 layout: post
 title:  "Calacanis on startup valuations"
 date:   2015-03-10
-categories: [startup, business]
-tags: []
+categories: startups
+tags: [startups, business, valuations]
 ---
 
 Notes to <a href="http://calacanis.com/2015/01/31/the-valuation-game-the-triple-play-strategy-to-land-triple-n-angels/" target="_blank">the-valuation-game-the-triple-play-strategy-to-land-triple-n-angels</a>

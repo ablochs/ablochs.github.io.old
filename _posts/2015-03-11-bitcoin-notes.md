@@ -27,9 +27,13 @@ tags: [bitcoin, notes]
 
 - [The first mined block](http://blockexplorer.com/b/0)
 
-## Privicy
+## Privicy & Anonymity
 - remixers that randomly exchange bitcoin
 - darkcoin
+- merge avoidance
+- stelth addresses
+- coin mixing
+- dark wallet
 
 ## Links Misc.
 - [ethereum wiki](https://github.com/ethereum/wiki/wiki)
@@ -54,6 +58,8 @@ tags: [bitcoin, notes]
 - [Ethereum](https://www.ethereum.org/)
 -- Allow you to create distributed applications
 - Purse.io
+- [http://maidsafe.net/](http://maidsafe.net/)
+- bitproof
 
 
 ## Names
