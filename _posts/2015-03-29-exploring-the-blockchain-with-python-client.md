@@ -10,5 +10,3 @@ tags: [bitcoin, blockchain, python]
 {% highlight python %}
     pip install blockchain
 {% endhighlight %}
-
-
